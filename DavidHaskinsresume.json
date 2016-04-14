@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "David Haskins",
+    "label": "Learning & Performance",
+    "picture": "<img src=\"https://media.licdn.com/media/p/1/000/01f/008/1cbe895.jpg\">",
+    "email": "dhaskins@rogers.com",
+    "phone": "(613) 729-1428",
+    "website": "ca.linkedin.com/in/davidjhaskins",
+    "summary": "Confident, dedicated, bilingual learning and performance professional with over 20 years experience. Proven track record in planning and prioritizing efficiently, and meeting deadlines. Experience in instructional design, e-learning courseware design/development, performance consulting, training, and performance support. Strengths include interpersonal skills, communications, creativity, and initiative. Proficient with MS Office, the Adobe E-learning Suite (Captivate, Presenter, Photoshop, Audition), WebEx, WordPress, learning management systems.",
+    "location": {
+      "address": "375 Piccadilly Avenue",
+      "postalCode": "K1Y 0H3",
+      "city": "Ottawa",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Export Development Canada (EDC)",
+      "position": "Employee Development Advisor ",
+      "website": "",
+      "startDate": "2001",
+      "endDate": "Present",
+      "summary": "Analysis, design and development of learning programs for employees",
+      "highlights": [
+        "Implemented a comprehensive learning and performance approach for a corporate transformational project",
+        "Developed a curriculum which included pre-training activities, training events (ILT, VILT, online), and post-training performance support. Followed modern 5 Moments of Need and 70-20-10 models",
+        "Contributed to a multi-year project to transfer employee product training from in-class to e-learning format, with a focus on in-house applications",
+        "Delivered both in-class and online training to support adoption of a new Customer Relationship Management system"
+      ]
+    },
+    {
+      "company": "Training Innovations (ADGA Group)",
+      "position": "Instructional Designer",
+      "website": "",
+      "startDate": "1999",
+      "endDate": "2001",
+      "summary": "For multiple clients and industries",
+      "highlights": [
+        "Created learning content for use in Technology-Based Training (TBT)",
+        "Analyzed, designed, and developed instructional strategies for TBT projects",
+        "Performed and produced Training Needs Analysis Reports for multiple $500,000 projects"
+      ]
+    },
+    {
+      "company": "GEVC Interactive Media",
+      "position": "E-learning Courseware Developer",
+      "website": "",
+      "startDate": "1997",
+      "endDate": "1998",
+      "summary": "For multiple clients and industries",
+      "highlights": [
+        "Designed and developed interactive e-learning courseware"
+      ]
+    },
+    {
+      "company": "Algonquin College",
+      "position": "Instructor",
+      "website": "",
+      "startDate": "1993",
+      "endDate": "1999",
+      "summary": "Teaching adults English, Communications, Customer Service, Life Skills, Career Planning",
+      "highlights": [
+        "Adapted curriculum and delivered courses for diverse college programs",
+        "Provided training both in class and virtually for the distance education program"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Wellington Village Community Association,",
+      "position": "Board Member / Webmaster",
+      "website": "",
+      "startDate": "2006",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "32nd Ottawa Scouts,",
+      "position": "Leader",
+      "website": "",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Green Team, EDC",
+      "position": "Member ",
+      "website": "",
+      "startDate": "2010",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Big Brothers Big Sisters of Lanark County,",
+      "position": "Board Member",
+      "website": "",
+      "startDate": "1993",
+      "endDate": "1997",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Algonquin College",
+      "area": "Interactive Multimedia Certificate",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1997",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "St. Lawrence College",
+      "area": "Teacher of Adults Certificate | Life Skills Coach Certificate",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1994",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Western Ontario",
+      "area": "Bachelor of Education",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1990",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Windsor",
+      "area": "Bachelor of Arts (Hon) – Communications Studies",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1985",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
